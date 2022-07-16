@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juktagoyari" alt="juktagoyari" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python, Machine learning**
+- 🌱 I’m currently learning **Python, Machine learning,Web Development**
 
 - 💬 Ask me about **C, C++, Python**
 
